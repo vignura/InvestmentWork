@@ -1,0 +1,5 @@
+If a fresher(ie person joining a job for the first time in life) has salary such that if his basic + DA is greater than 15,000 then he can opt out of EPF.
+1) Is the above fact correct?
+2) Is there a way that a member(a person who has payed one or more contributions towards EPF) of EPF scheme, can opt out of the scheme (ie not pay a single rupee to EPF and EPS) ?
+3)If there is no way to get of out EPF, then how money from EPF can I withdraw ? (ideally I want withdraw all my money from EPF ie, leave zero balance in both EPF and EPS).
+4) How often can I withdraw from EPF ? (how many times a year or month ?)

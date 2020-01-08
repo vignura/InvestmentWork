@@ -1,0 +1,88 @@
+-------
+Don'ts:
+-------
+1) Don't Invest in stocks of Government Companies (ie Government's holdings > 50 %).
+
+    Rationale   : Management of such companies doesn't have the enough control to take progressive decisions
+                  and ruling parties use these companies for politics. 
+    Example     : Indian oil corp (56 % Government holdings in Mar 2018), paid an additional dividend in 
+                  FY2019 than usual, because of pressure from government and also took a margin cut as 
+                  government reduced petrol prices to gain votes because it was election time back in May 2019.
+                  (IOC has lost 40 % from FY2018 to FY2020).
+
+2) Don't Invest in stocks that has derivatives.
+
+    Rationale   : The stocks with derivatives, (ie Futures and Option contracts), are usually largecaps,
+                  and potential for growth in largecaps are limited compared to Midcaps or smallcaps, but
+                  that does not imply that risk in these stock are lower. Largecaps with derivatives, during 
+                  economic recessions and slowdowns, have lost marketcap faster than midcaps or smallcaps, as
+                  the when it comes to stocks with derivatives, there are no upper and lower circuit limits.
+    Example     : On 21th Sep 2018, DHFL lost 43 % of it's market cap in single trading day.
+                  (open: 615.15 High: 615.15 close: 350.55 Low: 274.75)
+
+3) Don't Invest in stocks that are hitting upper or lower circuit limits.
+
+    Rationale   : Trading stops for remainder of the day if a stock hits 20 % (or 10 % or x% as imposed by the exchange) 
+                  circuit limit on either side, so it is difficult to enter or exit from such stocks as trading halts. 
+                  Usually when a stock hits upper circuit continuously, then when the limit restriction is removed 
+                  by the exchange it usually hits the lower circuit faster, so losing months of gains in days.
+    Example     : Shares of 7NR Retail Ltd, has been hitting the upper circuit from 11 Nov 2019 till 26 Dec 2019, 
+                  after that, the share has lost 20 % in two days (ie 26th on 27th Dec) by hitting the lower circuits
+                  on both days.
+
+4) Don't Invest the money you would need in within a year (ie Short term Liability) in stocks (Long Term assets).
+
+    Rationale   : After doing your due diligence, and buying stock, still losses are made because of selling the 
+                  stock at wrong time. So if you invest the money that you would need in near term into stocks,
+                  when you need it back, it might not be the good time to sell it, as stock price could possibly  
+                  go higher where you might miss potential capital gains or even worse it might have undergone 
+                  a correction, and if you have held it through and hoping it will recover in near term, 
+                  now you would sell it at lower price and have to take a capital loss.
+    Example     : If you have bought HDFC AMC back in end of Mar 2019 at Rs 1500, with the capital that
+                  you would need the next month, and sold it for Rs 1600 at the end of Apr 2019, you would have
+                  made a gin of 6.67 %, but if you have held it till end of Nov 2019, and sold at Rs 3700, then
+                  your gain could have been 146.67 % instead of just 6.67 %.
+
+5) Don't Invest in value traps (ie, Low PE and High dividend yield).
+
+    Rationale   : The core of fundamental analysis is to find under valued stocks (these stocks too have 
+                  Low PE and High dividend yield). But not all Low PE, high dividend yield stocks are under valued
+                  as mostly such stocks are fairly valued by the market. As market puts a premium valuation on stocks 
+                  that have good management, high growth prospects, better Return ratios etc. Hence if a stock looks
+                  under valued, then take a closer look, check, and double check before you invest in it as market 
+                  could be right to value it where it is.
+    Example     : LEEL Electricals Ltd, Loyd AC manufacturer, was trading around Rs 20 in Jan 2018, after falling 
+                  from Rs 200, the PE was only 1.5x and dividend yield was grater than 10 %. Now if someone have 
+                  bought it considering it under valued, the share has further lost greater than 85 % and trading at 
+                  Rs 2.5 in Dec 2019, so if held this long, then they would have lost all their investment.
+
+
+6) Don't try to catch a falling knife, ie, to average down or to buy a stock as its price is falling.
+    
+    Rationale   : Market lows are only visible in hindsight, ie after the stock stops falling and 
+                  reverses it direction and starts rising. Too many smart people have tried and failed to 
+                  correctly time the market lows. Usually, rapidly falling stocks fall hard and long before 
+                  they recover.
+    Example     : Yes bank Share fell 50 % from its all time high to around Rs 160 during Dec 2018. Thinking that 
+                  this is an opportunity to buy and if you would have bought it during Dec 2018, and if held it 
+                  for a year (Dec 2019), then you would have lost 70 % as share price fell below Rs 50 . 
+                  But it is interesting to note that before falling 70 %, the stock actually rose 50 % (Rs 250) 
+                  in Apr 2019, I guess a lot people in market believed that the stock was under valued at that time.
+
+7) Don't Sell, unless it is time to sell.
+    
+    Rationale   : After doing your due diligence, if have bought a growth stock, and if the price 
+                  increases fast, you would think that the stock is over valued because of this 
+                  surge in price, but when market starts to price a stock correctly, it takes the  
+                  price to new heights before under going any correction, so if you had sold it early, 
+                  then you would have missed the ride but this rule is the most difficult one to follow,  
+                  and takes a lot of experience to master.
+    Example     : If you would have bought Adani Green Energy's Share in Aug 2019 for Rs 45 and 
+                  See it rise over 100 % to over Rs 90 within Oct 2019 and sold it, you would have
+                  missed the ride where the share price has raised another 60 % from Rs 95 to Rs 150 
+                  in the next one month.
+
+----
+Dos:
+----
+1) Make sure you do your due diligence before investing and don't do any of the above don't.
