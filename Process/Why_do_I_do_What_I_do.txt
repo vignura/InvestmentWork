@@ -21,6 +21,9 @@ Investing:
 
 3) What have I done achieve my goal ?
 	* I am holding Dixon technologies for past 2 months with a capital gain of 40 %
+	* I have created a Whatsapp Group called "Investment Club", where I connect with 
+	  like minded people and where we all benifit from each other contributions, 
+	  thereby producing a "Sum that is greater than its parts" effect.
 
 4) What have I learnt about Investing ? 
-	* A lot, all my work is saved in https://github.com/vignura/InvestmentWork
+	* A lot, see https://github.com/vignura/InvestmentWork 
