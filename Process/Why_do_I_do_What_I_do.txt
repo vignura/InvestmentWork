@@ -18,6 +18,10 @@ Investing:
 		4) Availability of credit on both production and consumption sides
 		5) Customer sentiment for products that company sells
 	* I use technical analysis to calibrate entry and exits of my positions.
+	* I monitor Quaterly results, read Annual Reports, read Earning conference call updates
+	  and generally monitor most of the corporate actions taken by the company and follow
+	  the all the news related to the company periodically and take my buy and sell decisions
+	  based on above actions.
 
 3) What have I done achieve my goal ?
 	* I am holding Dixon technologies for past 2 months with a capital gain of 40 %
