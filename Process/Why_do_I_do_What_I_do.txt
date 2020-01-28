@@ -27,3 +27,9 @@ Investing:
 
 4) What have I learnt about Investing ? 
 	* A lot, see https://github.com/vignura/InvestmentWork 
+
+5) What am I working on ?
+	* I understand that careful use of leverage is necessary to achieve my goals,
+	  so I am working on finding ways for leveraging that would not strain my
+	  current cashflows, so that I am able to afford the lifestyle that I want
+	  and achieve my investment goals simulataneously.
