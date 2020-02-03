@@ -1,0 +1,39 @@
+==========
+Investing:
+==========
+1) Why do I Invest ?
+	
+	* To compuond my wealth at aleast CAGR 25 % for next 20 years.
+	* Also for joy of seeing my wealth and knowledge grow. 
+
+2) How do I Invest ?
+	* I invest directly in equities for capital gains and not for dividends.
+	* I don't diversify rather I pick one company and hold on to it till it keeps growing.
+	* If my pick does not perform as expected within the time frame that I defined, then I 
+	  sell my position in that stock, minimizing my losses and move on to the next stock.
+	* I pick a stock based on following fundamentals,
+		1) Potential for Growth
+		2) Quality of Management
+		3) Storng Balancesheet
+		4) Availability of credit on both production and consumption sides
+		5) Customer sentiment for products that company sells
+	* I use technical analysis to calibrate entry and exits of my positions.
+	* I monitor Quaterly results, read Annual Reports, read Earning conference call updates
+	  and generally monitor most of the corporate actions taken by the company and follow
+	  all the news that is related to the company periodically and take my buy and sell 
+	  decisions based on above actions.
+
+3) What have I done achieve my goal ?
+	* I am holding Dixon technologies for past 2 months with a capital gain of 40 %
+	* I have created a Whatsapp Group called "Investment Club", where I connect with 
+	  like minded people and where we all benifit from each other contributions, 
+	  thereby producing a "Sum that is greater than its parts" effect.
+
+4) What have I learnt about Investing ? 
+	* A lot, see https://github.com/vignura/InvestmentWork 
+
+5) What am I working on ?
+	* I understand that careful use of leverage is necessary to achieve my goals,
+	  so I am working on finding ways for leveraging that would not strain my
+	  current cashflows, so that I am able to afford the lifestyle that I want
+	  and achieve my investment goals simulataneously.

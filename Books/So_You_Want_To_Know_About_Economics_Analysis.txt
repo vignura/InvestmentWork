@@ -222,8 +222,100 @@ That is why several governments don’t own too many factories or
 farms, preferring to let the people of their countries compete among
 themselves, thus keeping it all fair.
 
-----------------------
-21) Generally speaking, this is how price elasticity should work. The
+21) Since Indian industry was so underdeveloped, the government felt that,
+at least for a while, it should be allowed to find its feet and gain confidence
+without worrying about competition from foreign industries, which were
+more established, more aggressive, and far wealthier.* India had just come
+out of a dark period where exactly that kind of competition had destroyed our
+industries, so this seemed like a great idea at the time
+
+22) So, in 1991, India finally decided to liberalise, or open up the economy,
+and let foreign companies come in and set up shop. Mollycoddled Indian
+industries would have to up their game and compete—or die trying. As
+expected, many inefficient industries died, but several others got their act
+together, and are still around, competing fiercely with the foreign ones and
+even expanding beyond Indian shores. With the new freedom to start
+companies without too much government interference, thousands of new,
+exciting Indian companies with fresh ideas on what the Indian customer
+would like also opened their doors
+
+23) In 2016, we celebrated a quarter century of liberalisation. Everyone
+agrees it has been a huge success and that it has made life far more
+comfortable, interesting and fun for all of us. After all, that’s the reason you
+are getting to watch Modern Family and Quantico while snacking on Lay’s
+chips and guzzling Pepsi!
+
+24) The other problem with the command economy (and Communism) is
+that it doesn’t take into account one important thing about human nature—
+the power of incentives. If everyone is going to get the same salary no
+matter how hard they work or how smart they are, no one will bother
+working hard or being smart at all! But if you offer people incentives
+(rewards)—the more kurtas you stitch, the more money you will stand to
+make; if you don’t miss a single day at work, you will win an all-expenses
+paid trip to the Dubai Shopping Festival—they will work harder, smarter
+and more efficiently. That is why most countries have now done away
+with Communist governments and command economies and gone over to
+democratic governments and a different economic system
+
+25) The meaning of the word ‘inflation’, in Economics, is ‘a general overall
+increase in the prices of things’ in a country. Most people say that
+‘inflation is caused because governments print more money’, but some
+economists say that it is actually the other way around, i.e., ‘governments
+print more money because there is inflation’. Either way, for our purposes,
+it is enough to know that inflation and ‘more money in the money pool’ go
+hand in hand, whichever comes first
+
+26)Now, what are some of the factors (besides governments putting
+more money in the money pool) that cause inflation?
+▶ I’m the bossman: this is going to cost you. If a producer has no
+competition, he has market power. People who want what he is
+selling have no choice but to buy it from him. Therefore, this guy can
+merrily jack up his prices, causing inflation. That’s what Alphonso,
+in our example, did in Year 1. Economists would call our farmer a
+monopolist, and his business a monopoly.
+▶ Everyone wants it, and is willing to pay the price. If there is a
+sudden increase in demand for something which is in short supply,
+prices go up, causing inflation (demand-pull inflation). In our
+example, people in the village who suddenly found themselves flush
+with money all wanted mangoes since it was the season. This was
+unexpected, and the supply available could not keep up with the
+demand, causing prices to zoom. (This is also what happens to the
+price of tickets to an important IPL match, although that is not
+entirely unexpected.)
+▶ Dude, it cost me to make this thing. If it costs more to produce
+something this year than it did last year, then obviously the producer
+has to make up the extra money he spent. So the price of the product
+goes up (cost-push inflation).
+
+And so, the moral of the story is that, with inflation, just like with
+everything else in life, the Goldilocks Principle works best. Not too much,
+not too little, but just right
+
+27) P.S. How do we get the data about what things cost across the country? Well, there are
+people who actually go around and collect this information, from some 310 towns and
+1181 villages! In fact, this is one of the jobs that village postmen and women do, apart
+from delivering mail
+
+28) Zimbabwe experienced the hyper-est form of hyperinflation in November
+2008, when the rate of inflation was—hold your breath—7.96 BILLION
+per cent! That means a loaf of bread which cost, say, 1 Zimbabwean
+dollar (ZWD) in the year 2000, cost 7.96 billion ZWD in November 2008!
+On 16 January 2009, the Reserve Bank of Zimbabwe issued the largest 
+denomination ZWD ever— the 100 trillion dollar note! What could it buy? 
+Not even the tiniest bar of chocolate!
+
+29) The government asked people to bring all their ZWDs
+—in wheelbarrows or trucks or whatever—to the banks and exchange
+them for US Dollars (USD). How many ZWDs would people have to give
+in to get 1 USD in return? Just 250 trillion.
+
+30) This kind of exchange rate, based on the purchasing power of a currency,
+is called purchasing power parity. A country’s GDP calculated using
+this method is called that country’s PPP GDP (phew, so many letters!).
+Although this kind of calculation is not perfect either, many economists
+feel it is a better measure of the strength of a currency than nominal GDP
+
+31) Generally speaking, this is how price elasticity should work. The
 demand for essential goods (rice, onions, milk, petrol) are more or less
 price inelastic, while the demand for luxury goods (gold jewellery, cars,
 houses) and goods which have decent substitutes, are price elastic. If what
@@ -231,20 +323,20 @@ you are planning to buy is price elastic, you will either simply postpone
 buying it (in case of a luxury good) until prices fall; or you will buy the
 cheaper substitute instead (like in our sneakers example).
 
-22) As you can see, none of these three situations—monopoly, oligopoly,
+32) As you can see, none of these three situations—monopoly, oligopoly,
 monopsony—is a good thing. To make sure they don’t happen, governments
 have all kinds of rules and regulations in place. But governments also have to
 be careful—too many rules upset producers, who will then be reluctant to put
 their money into manufacturing goods, but too few rules harm consumers.
 Yup, it isn’t easy being the government!
 
-23) Remember, though, that they are more likely to support you if it is
+33) Remember, though, that they are more likely to support you if it is
 convenient to do so and if there is something in it for them. Economists refer
 to this ‘something in it for them’ as an incentive. If you want to influence
 your customers’ buying behaviour (i.e., make sure they buy your product),
 you should give them ‘incentives’.
 
-24) Appeal to customer hearts, not heads. Gently nudge customers to buy
+34) Appeal to customer hearts, not heads. Gently nudge customers to buy
 your product over others with posters that evoke nostalgia (‘Your Naani
 doesn’t serve her nimbu paani in plastic cups and neither do we!’) or
 guilt (A visual of a dustbin full of used paper-plastic cups from fast food
@@ -252,21 +344,21 @@ places and roadside coffee tea places, with the line ‘How many trees did
 you destroy last week?’) or good old awww (‘Show the planet some
 love—drink our lemonade!’).
 
-25) Address your customers’ concerns. Make sure your glasses are
+35) Address your customers’ concerns. Make sure your glasses are
 sparkling. Have someone in a clean apron wiping off freshly washed
 glasses in the stall, with a clean cloth. Make sure your surfaces and
 counters are wiped down regularly. Stand the clean glasses upside down
 on cheerful and clean teacloths. Make customers forget their hygiene
 argument.
 
-26) Create one killer incentive. Make badges—’I did my bit for Swacch
+36) Create one killer incentive. Make badges—’I did my bit for Swacch
 Bharat today’—and pin them to every customer’s sleeve. Your
 customers will love it. Everyone will know how virtuous they’ve been
 without them having to say anything. What’s in it for you? Other people
 will ask your customers about the badges, and word about your
 lemonade will spread.
 
-27) Banks work out of big fancy buildings for a reason!
+37) Banks work out of big fancy buildings for a reason!
 Here’s an interesting bit of trivia: How come big banks are always located
 in the largest, fanciest offices, in the most expensive part of town?
 Because they have tons of money, that’s why! Well, yes, but do they
@@ -280,3 +372,25 @@ you? What do they want you to buy? The product that banks are selling to
 you is an idea called ‘trust’. You will only ‘buy’ from them (i.e., give
 them your money) if you trust them. You wouldn’t lend money to
 someone you didn’t trust, would you?
+
+
+38) American political philosopher Michael J. Sandel thought about such
+trades a lot. Then he put down all his thoughts in a fascinating book called
+What Money Cannot Buy.
+Sandel argues that we should be careful about allowing The Market, and
+‘market values’—which say trade is good, period—to dominate our lives in
+areas where such values have no place. He argues that markets should have
+‘moral limits’—we should not only think about whether a trade is ‘good’, we
+should also think about whether a trade is ‘fair’ to everyone around, even
+those not directly involved in the trade itself.
+While it is generally okay for a trade to favour the rich—pay more
+money for a better seat on a plane or a bigger room in a hotel—it is not
+always okay when it comes into areas where other values should matter. In
+some areas of community life, the questions we should be asking are not
+‘Can you pay for it?’ but ‘Do you deserve it?’, ‘Do you need it more than
+someone else?’, ‘Were you here first?’ and ‘Will making this trade hurt
+someone else?’ Yup, the same kinds of questions you should ask yourself
+before you do or say things in your non-trading life, too.
+Only when we all ask such questions will we be able to create not only a
+more productive and prosperous world, but also one that is fairer, gentler,
+more ethical, and a better place to live in for all of us.
