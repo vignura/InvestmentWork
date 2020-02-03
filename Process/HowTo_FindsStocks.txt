@@ -1,0 +1,35 @@
+These are following methods I use to find new stocks, which then I do research on.
+
+============
+Top Gainers:
+============
+I go to trendlyne.com top gainers list look for new stocks in the list.
+https://trendlyne.com/stock-screeners/price-based/top-gainers/today/index/BSE500/bse-500/ 
+	* I look for gainers in NSE 500, BSE 500, NSE smallcap and BSE smallcap.
+	* I look for stocks that gained a lot over last week and month and select 10 stocks.
+	* Now with stocks selected, I will search for news related to those stocks.
+	* Then I proceed for further analysis.
+
+========
+Screens:
+======== 
+I go screener.in, and apply my screens for finding new companies
+https://www.screener.in/screens/
+	* I use my screens as well as the popular ones like Bull Cartel
+	* I see if my screens have found any new stocks
+	* I my screens have found new stocks, then I proceed for further analysis.
+
+=====
+News:
+=====
+I look for new stocks form following news sources 
+	1) New Papers: Business Line and Financial Express
+		https://epaper.financialexpress.com/
+
+	2) Online news apps 
+		* Money Control - https://www.moneycontrol.com/
+		* Live Mint 	- https://www.livemint.com/
+		* Finshots 		- https://finshots.in/
+		* MSN Money app
+
+	

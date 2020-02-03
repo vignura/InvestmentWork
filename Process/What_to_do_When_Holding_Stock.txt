@@ -1,0 +1,35 @@
+=============
+Holding Todo:
+=============
+1) Keep yourself updated with the latest quaterly results.
+	Go to screener.in -> view all anncouncements -> Financial results or Investor presentaions
+
+2) Listen to Enarnings conference all or read the Eranings call Transcript.
+
+3) Log whenever there is a large movements in stock price backed by volumes and try to find reason for it.
+   start with following,
+	* check the news, use google, moneycontrol, mint etc 
+	* check for Insider Trading, see screener.in -> news section 
+	  and Trendlyne.com -> Deals -> Bulk deals and Insider trading
+	* Check for changes in holdings of Instituional investors
+
+4) Every quater, review the share holding pattern, look for change in 
+	* Promoter holding
+	* Domestic Institutional holdings
+	* Foreign Institutional holdings
+	* use Trendlyne.com -> shareholdings
+
+5) Check simplywall.st's report on the stock and look for 
+	* Executive Summary
+	* Share Price & News
+	* Valuation
+	* Future Growth
+	* Past Performance
+	* Financial Health
+	* Dividend
+	* Eg: https://simplywall.st/stocks/in/consumer-durables/nse-dixon/dixon-technologies-india-shares
+
+6) Every Quater write down the reason for holding the stock, and its expected performance.
+
+7) Check the Risk checklist compiled during stock selection, and how these risks will affect 
+	the company's performance going forward.
