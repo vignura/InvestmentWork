@@ -1,0 +1,35 @@
+                                    =======================
+                                    : Selection checklist :
+                                    =======================
+1) Check screener.in for fundamentals
+	* Check the market cap of the company
+	* check the primary ratios like PE, book value, RoCE, RoE, OPM and dividend yeild
+	* Check Balance Sheet
+		* Borrowings to reserves
+		* Reduction in debt
+		* Chnage in Fixed assets
+	* Look at the earnings, price and PE trends for growth.
+
+2) Build an analysis report on the stock,
+	* Use the following resources,
+		^ Annual reports
+		^ Invsetor Presentations
+		^ Earnings call transcripts 
+		^ Credit Ratings
+		^ Red Herring Prospectus
+	* Outline the following points
+		^ Why, how, what of the Business
+		^ Business model
+		^ Management profile
+		^ Growth drivers
+		^ Risk checklist
+	* use https://github.com/vignura/AnalysisTemplate 	
+	* eg https://github.com/vignura/AmberEnterprises
+
+3) Write down the estimated holding period and expected performance
+4) Check the technicals on trendlyne before entring into the stock,
+	* use https://trendlyne.com/tools/buy-sell-zone/
+	* usually entering after a correction is desirable
+
+
+
